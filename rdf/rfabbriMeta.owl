@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#rfabbrifb06022014">
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-12T21:35:27.551787</po:triplifiedIn>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/rfabbrifb60202014Netvizz</po:availableAt>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Fabbri</po:donatedBy>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014-02-06</po:createdAt>
+    <rdfs:label>Snapshot rfabbri fb 0202214</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

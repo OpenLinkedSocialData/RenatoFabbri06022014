@@ -1,0 +1,22 @@
+digraph  {
+	graph [label="Metadata for my facebook ego friendship network RDF files"];
+	node [label="\N"];
+	"Snapshot rfabbri fb 0202214"	 [color="#02F3DD",
+		style=filled];
+	0	 [color="#02F3F1",
+		label="2014-02-06",
+		style=filled];
+	"Snapshot rfabbri fb 0602214" -> 0	 [label=createdAt];
+	1	 [color="#02F3F1",
+		label="2015-11-12 21:35:27.551787",
+		style=filled];
+	"Snapshot rfabbri fb 0602214" -> 1	 [label=triplifiedIn];
+	2	 [color="#02F3F1",
+		label="Renato Fabbri",
+		style=filled];
+	"Snapshot rfabbri fb 0602214" -> 2	 [label=donatedBy];
+	3	 [color="#02F3F1",
+		label="https://github.com/ttm/rfabbrifb60202014Netvizz",
+		style=filled];
+	"Snapshot rfabbri fb 0602214" -> 3	 [label=availableAt];
+}
