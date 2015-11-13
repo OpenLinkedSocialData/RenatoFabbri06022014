@@ -5,11 +5,16 @@
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
   <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#rfabbrifb06022014">
-    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-12T21:35:27.551787</po:triplifiedIn>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
-    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/rfabbrifb60202014Netvizz</po:availableAt>
-    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Fabbri</po:donatedBy>
-    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014-02-06</po:createdAt>
     <rdfs:label>Snapshot rfabbri fb 0202214</rdfs:label>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/rfabbrifb60202014</po:availableAt>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/rfabbriTranslate.ttl</po:ttlFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/rfabbriMeta.owl</po:discorveryRDFFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/rfabbriMeta.ttl</po:discoveryTTLFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/rfabbriTranslate.owl</po:rdfFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-12T22:10:23.389822</po:triplifiedIn>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014-02-06</po:createdAt>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Fabbri</po:donatedBy>
   </rdf:Description>
 </rdf:RDF>

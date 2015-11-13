@@ -7,8 +7,13 @@
 
 <http://purl.org/socialparticipation/po/Snapshot#rfabbrifb06022014> a po:Snapshot ;
     rdfs:label "Snapshot rfabbri fb 0202214" ;
-    po:availableAt "https://github.com/ttm/rfabbrifb60202014Netvizz"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/rfabbrifb60202014"^^xsd:string ;
     po:createdAt "2014-02-06"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/rfabbriMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/rfabbriMeta.ttl"^^xsd:string ;
     po:donatedBy "Renato Fabbri"^^xsd:string ;
-    po:triplifiedIn "2015-11-12T21:35:27.551787"^^xsd:datetime .
+    po:rdfFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/rfabbriTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-11-12T22:10:23.389822"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/rfabbriTranslate.ttl"^^xsd:string .
 
