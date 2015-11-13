@@ -1,3 +1,4 @@
+@prefix ns1: <http://purl.org/socialparticipation/fb/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix po: <http://purl.org/socialparticipation/po/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -5,15 +6,19 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://purl.org/socialparticipation/po/Snapshot#rfabbrifb06022014> a po:Snapshot ;
-    rdfs:label "Snapshot rfabbri fb 0202214" ;
+<http://purl.org/socialparticipation/po/Snapshot#RenatoFabbri06022014> a po:Snapshot ;
+    rdfs:label "Snapshot RenatoFabbri06022014" ;
+    ns1:sid "renato.fabbri"^^xsd:string ;
+    ns1:uid "781909429"^^xsd:string ;
     po:acquiredThrough "Netvizz"^^xsd:string ;
-    po:availableAt "https://github.com/ttm/rfabbrifb60202014"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/RenatoFabbri06022014"^^xsd:string ;
     po:createdAt "2014-02-06"^^xsd:string ;
-    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Meta.owl"^^xsd:string ;
-    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Meta.ttl"^^xsd:string ;
-    po:donatedBy "Renato Fabbri"^^xsd:string ;
-    po:rdfFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Translate.owl"^^xsd:string ;
-    po:triplifiedIn "2015-11-12T23:15:46.892694"^^xsd:datetime ;
-    po:ttlFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Translate.ttl"^^xsd:string .
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/RenatoFabbri06022014/master/rdf/RenatoFabbri06022014Meta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/RenatoFabbri06022014/master/rdf/RenatoFabbri06022014Meta.ttl"^^xsd:string ;
+    po:donatedBy "RenatoFabbri"^^xsd:string ;
+    po:originalFile "https://raw.githubusercontent.com/ttm/RenatoFabbri06022014/master/base/['..', 'data', 'fb', 'gdf', 'RenatoFabbri06022014.gdf']"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/RenatoFabbri06022014/master/rdf/RenatoFabbri06022014Translate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-11-13T06:11:13.656379"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/RenatoFabbri06022014/master/rdf/RenatoFabbri06022014Translate.ttl"^^xsd:string ;
+    rdfs:comment "The facebook friendship network from Renato Fabbri"^^xsd:string .
 

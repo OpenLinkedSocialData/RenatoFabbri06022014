@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
    xmlns:po="http://purl.org/socialparticipation/po/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
 >
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#rfabbrifb06022014">
-    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Translate.owl</po:rdfFile>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
-    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014-02-06</po:createdAt>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#RenatoFabbri06022014">
+    <rdfs:label>Snapshot RenatoFabbri06022014</rdfs:label>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RenatoFabbri06022014/master/base/['..', 'data', 'fb', 'gdf', 'RenatoFabbri06022014.gdf']</po:originalFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RenatoFabbri06022014/master/rdf/RenatoFabbri06022014Translate.owl</po:rdfFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RenatoFabbri06022014/master/rdf/RenatoFabbri06022014Translate.ttl</po:ttlFile>
     <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
-    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Translate.ttl</po:ttlFile>
-    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Meta.owl</po:discorveryRDFFile>
-    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Meta.ttl</po:discoveryTTLFile>
-    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-12T23:15:46.892694</po:triplifiedIn>
-    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/rfabbrifb60202014</po:availableAt>
-    <rdfs:label>Snapshot rfabbri fb 0202214</rdfs:label>
-    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Fabbri</po:donatedBy>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RenatoFabbri06022014/master/rdf/RenatoFabbri06022014Meta.ttl</po:discoveryTTLFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014-02-06</po:createdAt>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/RenatoFabbri06022014</po:availableAt>
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">renato.fabbri</ns1:sid>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-13T06:11:13.656379</po:triplifiedIn>
+    <ns1:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">781909429</ns1:uid>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RenatoFabbri</po:donatedBy>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Renato Fabbri</rdfs:comment>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/RenatoFabbri06022014/master/rdf/RenatoFabbri06022014Meta.owl</po:discorveryRDFFile>
   </rdf:Description>
 </rdf:RDF>
