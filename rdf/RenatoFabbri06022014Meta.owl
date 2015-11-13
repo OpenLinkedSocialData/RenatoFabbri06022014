@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#rfabbrifb06022014">
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Translate.owl</po:rdfFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014-02-06</po:createdAt>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Translate.ttl</po:ttlFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Meta.owl</po:discorveryRDFFile>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Meta.ttl</po:discoveryTTLFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-12T23:15:46.892694</po:triplifiedIn>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/rfabbrifb60202014</po:availableAt>
+    <rdfs:label>Snapshot rfabbri fb 0202214</rdfs:label>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Fabbri</po:donatedBy>
+  </rdf:Description>
+</rdf:RDF>

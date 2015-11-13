@@ -1,0 +1,19 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#rfabbrifb06022014> a po:Snapshot ;
+    rdfs:label "Snapshot rfabbri fb 0202214" ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/ttm/rfabbrifb60202014"^^xsd:string ;
+    po:createdAt "2014-02-06"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Meta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Meta.ttl"^^xsd:string ;
+    po:donatedBy "Renato Fabbri"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Translate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-11-12T23:15:46.892694"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/ttm/rfabbrifb60202014/master/rdf/RenatoFabbri06022014Translate.ttl"^^xsd:string .
+
